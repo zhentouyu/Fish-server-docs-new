@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Fish-docs"
-  text: "A docs for Fish's server"
-  tagline: My great project tagline
+  text: ""
+  tagline: Fish的服务器游览指南
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 网页文档
+      link: /guide/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Minecraft文档
+      link: /mc/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 简
+    details: 主站极其简洁 没什么花里胡哨的装饰
+  - title: 独
+    details: 全服均由Fish一人维护
+  - title: 杂
+    details: 服务器上什么都有
 ---
 
